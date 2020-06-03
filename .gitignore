@@ -1,0 +1,13 @@
+
+# dependencies
+node_modules/
+
+# weather app
+web-server/
+
+#task manager
+task-manager/
+
+
+#chat app
+chat-app/
